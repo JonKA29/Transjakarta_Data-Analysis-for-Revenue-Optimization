@@ -36,5 +36,5 @@ To run the analysis:
 For any questions or feedback, please contact **Jonathan Kurniawan** at [**jonathankurniawan95@gmail.com**]
 
 ## Links ##
-Link to Tableau : [https://public.tableau.com/views/transjakarta_17204620350640/TransjakartaInsights?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link]
-Link to video explanation (in Bahasa): [https://youtu.be/jo8ajLGvDgg]
+- Link to Tableau : [https://public.tableau.com/views/transjakarta_17204620350640/TransjakartaInsights?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link]
+- Link to video explanation (in Bahasa): [https://youtu.be/jo8ajLGvDgg]
